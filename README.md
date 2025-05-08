@@ -35,7 +35,7 @@ To set up the **Clinic Booking System Database** on your local machine, follow t
 The **Entity Relationship Diagram (ERD)** provides a visual representation of the database structure, including all tables, their relationships, and the flow of data between them.
 
 You can view the ERD for this project by following the link below:
-[]
+(https://dbdiagram.io/d/clinic_booking_system-681ca7e35b2fc4582fc384b7)
 
 ## Project Notes
 - **Normalization**: The database schema is designed following best practices for database normalization, ensuring the data is efficient, consistent, and easy to maintain.
